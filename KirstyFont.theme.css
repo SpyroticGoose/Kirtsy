@@ -1,0 +1,82 @@
+/**
+* @name Kirtsy
+* @author Spyros#4024
+* @description Discord changed their font recently, this will change it to the trashy Comic Sans lol
+* @version 0.0.1
+* @source https://github.com/TypekitMapping/ComicSansMs
+*/
+
+:root {
+    --font-primary: "Kirsty", "gg sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+    --font-display: "Kirsty", "gg sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+}
+
+@font-face {
+    font-family: ".";
+    font-style: normal;
+    font-weight: 300;
+    src: url("https://cdn.jsdelivr.net/gh/SpyroticGoose/Kirtsy@main/kirsty%20rg.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: ".";
+    font-style: italic;
+    font-weight: 300;
+    src: url("https://cdn.jsdelivr.net/gh/SpyroticGoose/Kirtsy@main/kirsty%20rg%20it.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: ".";
+    font-style: normal;
+    font-weight: 400;
+    src: url("https://cdn.jsdelivr.net/gh/SpyroticGoose/Kirtsy@main/kirsty%20rg.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: ".";
+    font-style: italic;
+    font-weight: 400;
+    src: url("https://cdn.jsdelivr.net/gh/SpyroticGoose/Kirtsy@main/kirsty%20rg%20it.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: ".";
+    font-style: normal;
+    font-weight: 500;
+    src: url("https://cdn.jsdelivr.net/gh/SpyroticGoose/Kirtsy@main/kirsty%20bd.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: ".";
+    font-style: italic;
+    font-weight: 500;
+    src: url("https://cdn.jsdelivr.net/gh/SpyroticGoose/Kirtsy@main/kirsty%20bd%20it.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: ".";
+    font-style: normal;
+    font-weight: 600;
+    src: url("https://cdn.jsdelivr.net/gh/SpyroticGoose/Kirtsy@main/kirsty%20bd.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: ".";
+    font-style: italic;
+    font-weight: 600;
+    src: url("https://cdn.jsdelivr.net/gh/SpyroticGoose/Kirtsy@main/kirsty%20bd%20it.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: ".";
+    font-style: normal;
+    font-weight: 700;
+    src: url("https://cdn.jsdelivr.net/gh/SpyroticGoose/Kirtsy@main/kirsty%20bd.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: ".";
+    font-style: italic;
+    font-weight: 700;
+    src: url("https://cdn.jsdelivr.net/gh/SpyroticGoose/Kirtsy@main/kirsty%20bd%20it.woff2") format("woff2");
+}
